@@ -1,0 +1,6 @@
+{
+  "name": "Lubricar Codazzi - Los Profesionales en Aceites",
+  "description": "Aceites, lubricantes, filtros, baterías y accesorios para carros, motos y motocarros en Agustín Codazzi, Cesar. Cambio de aceite gratis con tu compra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+# Documentos originales empresariales: pueden incluir datos privados.
+/Docs/
+/prototipo de la pagina web corregida/
+
+# Dependencias, compilación, temporales y secretos locales.
+**/node_modules/
+**/dist/
+**/build/
+**/coverage/
+**/.env
+**/.env.*
+!**/.env.example
+**/*.log
+.DS_Store
+Thumbs.db
